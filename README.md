@@ -12,8 +12,7 @@
 
 
 
-### —◉ 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁?
-𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨ 
+### —◉ اذا اعجبك البوت لا تنسى تدعوني✨ 
 
 <a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
@@ -21,20 +20,20 @@
 
 
 [![blog](https://img.shields.io/badge/Grupo-lolibot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/Ei87TDT7fsI3Q3p5MnM9sW)  <a href="https://chat.whatsapp.com/Ei87TDT7fsI3Q3p5MnM9sW"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz) <a href="https://chat.whatsapp.com/Ei87TDT7fsI3Q3p5MnM9sW"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 [![blog](https://img.shields.io/badge/Grupo2-lolibot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/FBMEpvnu3tsFvMtGWNCKCj) <a href="https://chat.whatsapp.com/FBMEpvnu3tsFvMtGWNCKCj"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz) <a href="https://chat.whatsapp.com/FBMEpvnu3tsFvMtGWNCKCj"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
-<a href="https://chat.whatsapp.com/ItsLdBgl0b5Lhb9vU4dC0c" target="blank"><img src="https://img.shields.io/badge/🐈 𝐆𝐚𝐭𝐚𝐁𝐨𝐭 & 𝐋𝐨𝐥𝐢𝐁𝐨𝐭 🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz" target="blank"><img src="https://img.shields.io/badge/🐈 𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺𓀋🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 -----
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtube.com/channel/UCPSrzHooOjQMRmUK_2RLcSw)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+[![blog](https://img.shields.io/badge/YouTube-FF0000?style=قناتي-يوتيوب-badge&logo=youtube&logoColor=white)
+](https://youtube.com/@emperoranus7621)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
 -----
 <p align="hihg">   
-<a href="https://www.tiktok.com/@thelolibot_md" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<a href="https://api.whatsapp.com/send?phone=+967771160204" target="_blank"> <img src="https://img.shields.io/badge/-تكتوك-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 -----
 
@@ -46,13 +45,13 @@
 <a href="https://dash.boxmineworld.com" target="_blank"> <img src="https://img.shields.io/badge/-boxmine-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 -----
-### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗  <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="40px">  
+### نشر البوت في ميدي فاير <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="40px">  
 > DESCARGUÉ Y DESCOMPRIMA 
 ### [`The Lolibot-MD ~ MediaFire`](https://www.mediafire.com/file/kzpgd6o72ecnnhj/LoliBot.zip/file) <a href="https://www.mediafire.com/file/kzpgd6o72ecnnhj/LoliBot.zip/file"> <img src="https://i.pinimg.com/originals/47/77/17/477717205aa460ae58f6b988a4606a02.png" height="30px">
 [![blog](https://img.shields.io/badge/LoliBot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/i1xjB4bmYCc)
 
-#### 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
+#### اوامر نشر البوت:
 ```bash
 > termux-setup-storage
 > apt update 
@@ -69,7 +68,7 @@
 ```
 ----  
 
-### 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐂𝐀𝐒𝐎 𝐃𝐄 𝐃𝐄𝐓𝐄𝐍𝐄𝐑𝐒𝐄 <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
+### اوامر نشر البوت<img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
