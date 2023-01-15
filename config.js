@@ -7,14 +7,14 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  [' 201098906252 ', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹 👑 ', true],
-  ['201098906252', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹 💖', true],
-//  ['201098906252', '𝑬 - 99👤', true],
-  ['+20 109 890 6252']]
+  [' 967771160204 ', '𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺𓀋 👑 ', true],
+  ['967771160204', '𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺𓀋 💖', true],
+//  ['967771160204', '𝑬 - 99👤', true],
+  ['+967 771 160 204']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = [' 201098906252 '], 
+global.prems = [' 967771160204 '], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -22,9 +22,9 @@ global.prems = [' 201098906252 '],
 //Add the language you want GataBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
-//  ar = عرب  
+//  ar = انوس عم الكل ⚜️
 
-global.lenguajeGB = ar  //Idioma de 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫, Ejemplo: es | en | pt...
+global.lenguajeGB = ar  //Idioma de 𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺 𝑩𝑶𝑻-𝑴𝑫, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -93,48 +93,48 @@ global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫 🧸'
-global.author = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
+global.packname = '𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺 𝑩𝑶𝑻-𝑴𝑫 🧸'
+global.author = '𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺 𝑩𝑶𝑻-𝑴𝑫'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
 global.version = vs
 
-global.gt = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
+global.gt = '𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺 𝑩𝑶𝑻-𝑴𝑫'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.yt = 'https://youtube.com/@emperoranus7621'
 global.youtube = yt
 
-global.ig = 'https://www.tiktok.com/@q.r.a.n_0?_t=8YwfdTqNdDR&_r=1'
+global.ig = 'https://youtube.com/@emperoranus7621'
 global.gatadiosig = ig
 
 global.md = 'https://github.com/ahmed1pMD'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
-global.nnagrupo = nna //UPDATE ELGAZAE BOT 
+global.nna = 'https://api.whatsapp.com/send?phone=+967771160204'
+global.nnagrupo = nna //UPDATE 𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺𓀋 BOT 
 global.nna2 = 'IxeB9yBYrNp85CLmKykmMM'
 
-global.nn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
-global.nngrupo = nn //Grupo 1
+global.nn = 'https://api.whatsapp.com/send?phone=+967771160204'
+global.nngrupo = nn //عمك انوس 1
 
-global.nnn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
-global.nnngrupo = nnn //Grupo 2
+global.nnn = 'https://api.whatsapp.com/send?phone=+967730348571'
+global.nnngrupo = nnn //عمك انوس 2
 
-global.nnnt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
-global.nnntgrupo = nnnt //Grupo 3
+global.nnnt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
+global.nnntgrupo = nnnt //جروب 3
 
-global.nnntt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
-global.nnnttgrupo = nnntt //Grupo 4
+global.nnntt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
+global.nnnttgrupo = nnntt //جروب 4
 
-global.nnnttt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
-global.nnntttgrupo = nnnttt //Grupo 5
-global.paypal = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.nnnttt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
+global.nnntttgrupo = nnnttt //جروب5
+global.paypal = 'https://youtube.com/@emperoranus7621'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/201098906252' //
+global.asistencia = 'Wa.me/967771160204' //
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -168,13 +168,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = ' 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹: 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
-global.igfg = 'ELGAZAR-MD'
+global.wm = ' 𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹 𝑨𝑵𝑼𝑺𓀋: 𝑨𝑵𝑼𝑺 𝑩𝑶𝑻-𝑴𝑫'
+global.igfg = '𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺-MD'
 global.wait = '*⌛ _جاري التحميل..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _جاري التحميل..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _جاري التحميل..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _جاري التحميل..._ ▬▬▬▬▬▬▭*'
-global.nomorown = ' 201098906252' 
+global.nomorown = ' 967771160204' 
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
