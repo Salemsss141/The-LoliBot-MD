@@ -1,14 +1,14 @@
-#### 🚀 Versión actual: 1.4.5
+#### 🚀 بوت الإمبراطور انوس🎭⚜️: 1.4.5
 
 <p align="center"> 
-  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=مرحبا👋-معك_بوت_الامبراطور_انوس⚜️-MD++%F0%9F%90%88;تشرفت+في+معرفتك+لا+الاشتراك_في_القناه.+%F0%9F%92%96" height="90px"
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/sJ3HUTb.jpeg" alt="The-LoliBot-MD" width="900"/>
+<img src="https://telegra.ph/file/1592262447c5ce8714b60.jpg" alt="The-LoliBot-MD" width="900"/>
 </p>
 
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="بوت-الامبراطور-انوس-MD" src="https://img.shields.io/badge/بوت الإمبراطورية انوس أفضل البوتات في العالم 🌏-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 
 
